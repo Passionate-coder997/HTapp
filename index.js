@@ -2,27 +2,27 @@ let movies = [
     {
         name: 'Falcon and the winter soldier',
         des: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s',
-        image: 'Assets/images/slider 2.png'
+        image: 'slider 2.png'
     },
     {
         name: 'Loki',
         des: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s',
-        image: 'Assets/images/slider 1.png'
+        image: 'slider 1.png'
     },
     {
         name: 'Wanda Vision',
         des: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s',
-        image: 'Assets/images/slider 3.png'
+        image: 'slider 3.png'
     },
     {
         name: 'Raya and the last dragon',
         des: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s',
-        image: 'Assets/images/slider 4.png'
+        image: 'slider 4.png'
     },
     {
         name: 'Luca',
         des: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s',
-        image: 'Assets/images/slider 5.png'
+        image: 'slider 5.png'
     }
 ];
 
