@@ -1,3 +1,4 @@
+window.location.replace("https://htclone.netlify.app");
 const headers = new Headers(); //set http headers
 headers.append('X-Content-Type-Options', 'nosniff');
 
