@@ -1,7 +1,3 @@
-if(window.location.href==="https://passionate-coder997.github.io/HTapp) {
-   window.locatio.href="htclone.netlify.app";
-}
-
 const headers = new Headers(); //set http headers
 headers.append('X-Content-Type-Options', 'nosniff');
 
