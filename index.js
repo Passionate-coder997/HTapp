@@ -1,5 +1,5 @@
 if(window.location.href==="https://passionate-coder997.github.io/HTapp) {
-   window.locatio.href="https://htclone.netlify.app";
+   window.locatio.href="htclone.netlify.app";
 }
 
 const headers = new Headers(); //set http headers
